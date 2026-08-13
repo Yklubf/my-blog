@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "welcome-to-my-blog",
+    "file": "welcome-to-my-blog.md",
+    "title": "블로그를 시작하며",
+    "date": "2026-08-01",
+    "summary": "이 블로그가 어떻게 만들어졌는지에 대한 짧은 소개."
+  },
+  {
+    "slug": "markdown-syntax-demo",
+    "file": "markdown-syntax-demo.md",
+    "title": "마크다운 문법 데모",
+    "date": "2026-08-05",
+    "summary": "이 블로그가 지원하는 마크다운 문법을 한 번에 모아 보여주는 글."
+  },
+  {
+    "slug": "design-notes",
+    "file": "design-notes.md",
+    "title": "디자인 노트: 왜 이렇게 단순하게 만들었나",
+    "date": "2026-08-12",
+    "summary": "장식을 걷어내고 가독성에 집중한 이유에 대한 생각."
+  }
+]
